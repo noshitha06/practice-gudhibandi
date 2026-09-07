@@ -10,6 +10,6 @@ he's acting is so **natural** and he's cute ,i **admire** his's **personality**
 3. varsham
 
 
--Muvvala Navakala-
--Idedo bagundi-
--Baby won't your tell me-
+-Muvvala Navakala
+-Idedo bagundi
+-Baby won't your tell me
