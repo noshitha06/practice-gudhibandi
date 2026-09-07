@@ -26,4 +26,33 @@ I would like to visit these cities in the future because they have unique attrac
 **jerry**
 >"A day without laughter is a day wasted"
 
+--------
+###### Code Snippet-Stopwatch Class
+
+A class for measuring how long it takes for a program to run.
+
+/**
+ A class to measure time elapsed.
+*/
+
+public class Stopwatch {
+    
+    private long startTime;
+    private long stopTime;
+
+    private static final double NANOS_PER_SEC = 1_000_000_000.0;
+
+    /**
+     start the stop watch.
+    */
+    public void start() {
+        startTime = System.nanoTime();
+    }
+
+    /**
+     stop the stop watch.
+    */
+
+[Source: Stopwatch](https://www.cs.utexas.edu/~scottm/cs307/javacode/utilities/Stopwatch.java)
+
 
