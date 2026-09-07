@@ -16,3 +16,14 @@ I would like to visit these cities in the future because they have unique attrac
 |Miami|Warm weather ,beaches|~ 2500 miles|1000$|
 |Washington D.C|Museums , gardens|~2500 miles|500$|
 |Portland |Explore waterfalls, forests| ~960 miles | 300$|
+
+-------
+##### Favorite Jokes
+
+**tom**
+>"Why do they call it rush hour when nothing moves?"
+
+**jerry**
+>"A day without laughter is a day wasted"
+
+
